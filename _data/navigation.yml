@@ -1,0 +1,7 @@
+main:
+  - title: "Publications"
+    url: /docs/quick-start-guide/
+  - title: "Talks"
+    url: /year-archive/
+  - title: "Courses"
+    url: /categories/
